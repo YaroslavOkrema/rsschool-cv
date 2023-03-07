@@ -1,4 +1,4 @@
-#Yaroslav Okrema
+Yaroslav Okrema
 ---
 #Contacts
 
@@ -9,6 +9,7 @@
 ---
 
 #About me 
+
 Hello, everyone. I am a student at Oles Honchar Dnipro National University.
 I want to become a developer and work for a company, ready to put in a lot of effort. 
 
