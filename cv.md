@@ -8,9 +8,11 @@
 * __Phone:__ +380730668067
 * __GitHub:__ [YaroslavOkrema](https://github.com/YaroslavOkrema)
 * __E-mail:__ acdc170676@gmail.com
+
 ---
 
 #About me 
+
 Hello, everyone. I am a student at Oles Honchar Dnipro National University.
 I want to become a developer and work for a company, ready to put in a lot of effort. 
 
@@ -47,7 +49,8 @@ function summa(arr) {
 
 #Education
 * Oles Honchar Dnipro National University сurrently getting (Bachelor)
-* RSschool
+* RSschool (сurrently)
+
 ---
 
 #Experience
