@@ -15,6 +15,7 @@ I want to become a developer and work for a company, ready to put in a lot of ef
 
 ---
  Skills
+ 
 * HTML5 (basic)
 * CSS3 (basic)
 * JavaScript (basic)
@@ -22,7 +23,9 @@ I want to become a developer and work for a company, ready to put in a lot of ef
 * Bootstrap (basic)
 * Git (basic)
 ---
+
  Code examples
+ 
 ```
 function summa(arr) {
             var sum = 0;
