@@ -1,33 +1,34 @@
-#Yaroslav Okrema
+#           Yaroslav Okrema
 
----
 
-#Contacts
+
+#           Contacts
 
 * __Addres:__ Ukraine, Kamyanske
 * __Phone:__ +380730668067
 * __GitHub:__ [YaroslavOkrema](https://github.com/YaroslavOkrema)
 * __E-mail:__ acdc170676@gmail.com
 
----
 
-#About me 
+
+#           About me 
 
 Hello, everyone. I am a student at Oles Honchar Dnipro National University.
 I want to become a developer and work for a company, ready to put in a lot of effort. 
 
----
 
-#Skills
+
+#           Skills
 * HTML5 (basic)
 * CSS3 (basic)
 * JavaScript (basic)
 * Adobe Photoshop (basic)
 * Bootstrap (basic)
 * Git (basic)
----
 
-#Code examples
+
+
+#           Code examples
 
 ```
 function summa(arr) {
@@ -45,20 +46,20 @@ function summa(arr) {
          console.log(res);
 
 ```
----
 
-#Education
+
+#           Education
 * Oles Honchar Dnipro National University сurrently getting (Bachelor)
 * RSschool (сurrently)
 
----
 
-#Experience
+
+#           Experience
 * Not yet
 
----
 
-#Languages
+
+#           Languages
 * Ukrainian
 * English A1 (ePam test)
 * Russia
