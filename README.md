@@ -1,4 +1,3 @@
-https://YaroslavOkrema.github.io/rsschool-cv/cv
+https://YaroslavOkrema.github.io/rsschool-cv/
 
----
 
