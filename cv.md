@@ -24,7 +24,7 @@ I want to become a developer and work for a company, ready to put in a lot of ef
 * JavaScript (basic)
 * Adobe Photoshop (basic)
 * Bootstrap (basic)
-* Git (basic)
+* Git
 
 
 
