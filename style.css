@@ -4,14 +4,12 @@
 .bg1{
     background-color: var(--color1);
 }
-
 body{
     margin: 0;
     font-size: 15px;
     line-height: 1.6;
     color: #333;
 }
-
 *,
 *:after,
 :before{
@@ -20,16 +18,13 @@ body{
 h1,h2,h3,h4,h5,h6{
     margin: 0;
 }
-
  /* CONTAINER */
- 
 .container{
     width: 100%;
     max-width: 1230px;
     margin: 0 auto;
     padding: 0 15px;
 }
-
  /* Section */
  .section{
     padding: 100px 0;
@@ -47,19 +42,16 @@ h1,h2,h3,h4,h5,h6{
     margin: 100px 0;
     background-color: #a87e65;
 }
-
  /* Title */
  .photo{
     height: 400px;
     width: 400px;
  }
-
  .title__name{
     font-size: 60px;
     color: #704f3c;
     font-weight: 600;
  }
-
  .title__name:after {
     content: "";
     display: block;
@@ -68,18 +60,15 @@ h1,h2,h3,h4,h5,h6{
     margin: 25px auto;
     background-color: #a87e65;
 }
-
 .title__job{
     font-size: 50px;
     color: #704f3c;
     font-weight: 400;
 }
-
 /* Info */
 .info{
     padding: 100px 0;
 }
-
 .contacts__title{
     font-size: 30px;
     color: #453b39;
@@ -90,7 +79,6 @@ h1,h2,h3,h4,h5,h6{
     color: #45413e;
     font-weight: 500;
 }
-
 .about__text{
     font-size: 15px;
     color: #45413e;
